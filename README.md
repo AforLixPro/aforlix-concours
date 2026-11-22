@@ -1,2 +1,2 @@
 # aforlix-concours
-Site AforLix.
+site AforLix.
